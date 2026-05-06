@@ -17,4 +17,4 @@ All practicals are uploaded in respective folders.
 ---
 
 ## 🔗 GitHub Link
-https://github.com/swarupabote05/EDS
+https://github.com/swarupabote05/EDS.git
